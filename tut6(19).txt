@@ -1,0 +1,1 @@
+Total Charges (of Outpatient) for the entered Data is: $55000
